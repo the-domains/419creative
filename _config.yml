@@ -1,0 +1,28 @@
+name: 419Creative
+favicon: null
+layout_spectrum: 0.2980436475481838
+typography_spectrum: 0.05116039188578725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7006597660947591
+  lightness: 0.04792519798502326
+  saturation: 0.7022602646611631
+  rhythmicContrast: 0.3235222599469125
+purpose: []
