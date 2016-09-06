@@ -1,28 +1,40 @@
-name: 419Creative
-favicon: null
-layout_spectrum: 0.2980436475481838
-typography_spectrum: 0.05116039188578725
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.7022602646611631
+  brandStrength: 1
+  lightness: 0.04792519798502326
+  brandColors:
+    - '#3F3E3C'
+    - '#1E1A19'
+    - '#C8C0BE'
+    - '#E86D27'
+    - '#A94B13'
+  rhythmicContrast: 0.3235222599469125
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: 419Creative
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7006597660947591
-  lightness: 0.04792519798502326
-  saturation: 0.7022602646611631
-  rhythmicContrast: 0.3235222599469125
-purpose: []
+typography_spectrum: 0.4731471
+layout_spectrum: 0
