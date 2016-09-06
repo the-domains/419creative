@@ -1,4 +1,37 @@
-purpose: []
+typography_spectrum: 0.4731471
+color:
+  saturation: 0.7022602646611631
+  brandStrength: 1
+  lightness: 0.04792519798502326
+  brandColors:
+    - '#3F3E3C'
+    - '#1E1A19'
+    - '#C8C0BE'
+    - '#E86D27'
+    - '#A94B13'
+  rhythmicContrast: 0.3235222599469125
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Tim Fisher
+  email: tech@419Creative.com
+  url: 419Creative.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf0c479d-bafa-4f87-9ce1-66f04e12a377.png
+name: 419Creative
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/635817c6-cbab-4a1d-a677-3303cd962d00.png
 collections:
   - index:
       path: /
@@ -11,30 +44,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.7022602646611631
-  brandStrength: 1
-  lightness: 0.04792519798502326
-  brandColors:
-    - '#3F3E3C'
-    - '#1E1A19'
-    - '#C8C0BE'
-    - '#E86D27'
-    - '#A94B13'
-  rhythmicContrast: 0.3235222599469125
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: 419Creative
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4731471
-layout_spectrum: 0
+purpose: []
